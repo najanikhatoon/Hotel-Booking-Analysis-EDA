@@ -8,9 +8,12 @@ EDA is the first step in understanding and exploring a hotel booking dataset. Th
 
 Key tasks include:
 
-Data Cleaning: Removing duplicates and handling missing values.
-Descriptive Statistics: Calculating averages and spreads to understand booking trends.
-Visualization: Creating graphs to reveal trends, like seasonal booking patterns or types of guests.
-Feature Engineering: Extracting more detailed information, such as busy seasons or popular room types.
+1.Data Cleaning:- Removing duplicates and handling missing values.
 
-By examining these details, hotels can adjust prices, improve marketing, and manage resources effectively. EDA helps hotels make data-driven decisions, ultimately improving customer satisfaction and business performance.
+2.Descriptive Statistics:- Calculating averages and spreads to understand booking trends.
+
+3.Visualization:- Creating graphs to reveal trends, like seasonal booking patterns or types of guests.
+
+4.Feature Engineering:- Extracting more detailed information, such as busy seasons or popular room types.
+
+   By examining these details, hotels can adjust prices, improve marketing, and manage resources effectively. EDA helps hotels make data-driven decisions, ultimately improving customer satisfaction and business performance.
