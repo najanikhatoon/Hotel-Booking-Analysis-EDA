@@ -1,6 +1,6 @@
 Booking_com_Hotel_BOOKING_ANALYSIS.ipynb
 
-Certainly! Here’s a simplified and unique version of the explanation:
+
 
 Exploratory Data Analysis (EDA) for Hotel Booking Analysis
 
